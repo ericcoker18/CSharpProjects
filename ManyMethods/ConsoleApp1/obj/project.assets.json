@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ericc\\source\\repos\\ManyMethods\\ConsoleApp1\\ManyMethods.csproj",
+      "projectUniqueName": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\ManyMethods\\ConsoleApp1\\ManyMethods.csproj",
       "projectName": "ManyMethods",
-      "projectPath": "C:\\Users\\ericc\\source\\repos\\ManyMethods\\ConsoleApp1\\ManyMethods.csproj",
+      "projectPath": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\ManyMethods\\ConsoleApp1\\ManyMethods.csproj",
       "packagesPath": "C:\\Users\\ericc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ericc\\source\\repos\\ManyMethods\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\ManyMethods\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ericc\\AppData\\Roaming\\NuGet\\NuGet.Config",
