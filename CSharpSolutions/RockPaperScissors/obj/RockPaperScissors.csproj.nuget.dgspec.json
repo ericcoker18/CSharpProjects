@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\PigLatin\\PigLatin.csproj": {}
+    "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\RockPaperScissors\\RockPaperScissors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\PigLatin\\PigLatin.csproj": {
+    "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\RockPaperScissors\\RockPaperScissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\PigLatin\\PigLatin.csproj",
-        "projectName": "PigLatin",
-        "projectPath": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\PigLatin\\PigLatin.csproj",
+        "projectUniqueName": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\RockPaperScissors\\RockPaperScissors.csproj",
+        "projectName": "RockPaperScissors",
+        "projectPath": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\RockPaperScissors\\RockPaperScissors.csproj",
         "packagesPath": "C:\\Users\\ericc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\PigLatin\\obj\\",
+        "outputPath": "C:\\Users\\ericc\\Desktop\\MyProjects\\C#Projects\\CSharpProjects\\CSharpSolutions\\RockPaperScissors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ericc\\AppData\\Roaming\\NuGet\\NuGet.Config",
