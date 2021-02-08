@@ -58,7 +58,7 @@ namespace TicTacToe
             if (HorizontalWin() || VerticalWin() || DiagonalWin())
             {
                 switchTurn();
-                Console.WriteLine(playerTurn + "Won!");
+                Console.WriteLine(playerTurn + " Won!");
                 return true;
             }
 

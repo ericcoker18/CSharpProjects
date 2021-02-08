@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PigLatin", "PigLatin\PigLatin.csproj", "{5D0AAF1D-C5AD-42A6-94A9-FEB98E569515}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{6B0FB208-B172-42C4-A9D4-E49A86E973F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{6B0FB208-B172-42C4-A9D4-E49A86E973F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{5E9A0418-1471-4FC0-A1ED-6C3911717038}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{5E9A0418-1471-4FC0-A1ED-6C3911717038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook", "GradeBook\GradeBook.csproj", "{8E2B528D-869C-4852-AC27-991ADD6CA261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5E9A0418-1471-4FC0-A1ED-6C3911717038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E9A0418-1471-4FC0-A1ED-6C3911717038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E9A0418-1471-4FC0-A1ED-6C3911717038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2B528D-869C-4852-AC27-991ADD6CA261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2B528D-869C-4852-AC27-991ADD6CA261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2B528D-869C-4852-AC27-991ADD6CA261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2B528D-869C-4852-AC27-991ADD6CA261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
