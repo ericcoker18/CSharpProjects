@@ -101,7 +101,7 @@ namespace ManyMethods
 		static void guess() {
 			Console.WriteLine("Guess a word!");
 			string guess = Console.ReadLine();
-			if (guess == "chsarp")
+			if (guess == "Eric")
 			{
 				Console.WriteLine("Correct!");
 			}

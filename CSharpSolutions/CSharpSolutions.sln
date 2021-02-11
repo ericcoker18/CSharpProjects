@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeBook", "GradeBook\GradeBook.csproj", "{8E2B528D-869C-4852-AC27-991ADD6CA261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoCos", "PoCos\PoCos.csproj", "{46AE6C60-25B1-4BA2-B26D-ACABB6766ED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoCos", "PoCos\PoCos.csproj", "{46AE6C60-25B1-4BA2-B26D-ACABB6766ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2284B5AA-EA7E-4A15-B437-339E992CB732}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{46AE6C60-25B1-4BA2-B26D-ACABB6766ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46AE6C60-25B1-4BA2-B26D-ACABB6766ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46AE6C60-25B1-4BA2-B26D-ACABB6766ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2284B5AA-EA7E-4A15-B437-339E992CB732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2284B5AA-EA7E-4A15-B437-339E992CB732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2284B5AA-EA7E-4A15-B437-339E992CB732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2284B5AA-EA7E-4A15-B437-339E992CB732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
