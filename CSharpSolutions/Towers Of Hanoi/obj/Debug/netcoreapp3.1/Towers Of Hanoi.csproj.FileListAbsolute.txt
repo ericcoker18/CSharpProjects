@@ -1,0 +1,13 @@
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\bin\Debug\netcoreapp3.1\Towers Of Hanoi.exe
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\bin\Debug\netcoreapp3.1\Towers Of Hanoi.deps.json
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\bin\Debug\netcoreapp3.1\Towers Of Hanoi.runtimeconfig.json
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\bin\Debug\netcoreapp3.1\Towers Of Hanoi.runtimeconfig.dev.json
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\bin\Debug\netcoreapp3.1\Towers Of Hanoi.dll
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\bin\Debug\netcoreapp3.1\Towers Of Hanoi.pdb
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\obj\Debug\netcoreapp3.1\Towers Of Hanoi.AssemblyInfoInputs.cache
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\obj\Debug\netcoreapp3.1\Towers Of Hanoi.AssemblyInfo.cs
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\obj\Debug\netcoreapp3.1\Towers Of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\obj\Debug\netcoreapp3.1\Towers Of Hanoi.dll
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\obj\Debug\netcoreapp3.1\Towers Of Hanoi.pdb
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\obj\Debug\netcoreapp3.1\Towers Of Hanoi.genruntimeconfig.cache
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\Towers Of Hanoi\obj\Debug\netcoreapp3.1\Towers Of Hanoi.csprojAssemblyReference.cache
