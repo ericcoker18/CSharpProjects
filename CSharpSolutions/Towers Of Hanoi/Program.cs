@@ -18,6 +18,8 @@ namespace Towers_Of_Hanoi
                 gamemove();
             }
 
+            Console.WriteLine("You Win!");
+
         }
 
         static void intboard()
