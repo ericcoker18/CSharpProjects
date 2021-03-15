@@ -1,0 +1,13 @@
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\bin\Debug\netcoreapp3.1\SuperHeros.exe
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\bin\Debug\netcoreapp3.1\SuperHeros.deps.json
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\bin\Debug\netcoreapp3.1\SuperHeros.runtimeconfig.json
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\bin\Debug\netcoreapp3.1\SuperHeros.runtimeconfig.dev.json
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\bin\Debug\netcoreapp3.1\SuperHeros.dll
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\bin\Debug\netcoreapp3.1\SuperHeros.pdb
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\obj\Debug\netcoreapp3.1\SuperHeros.csprojAssemblyReference.cache
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\obj\Debug\netcoreapp3.1\SuperHeros.AssemblyInfoInputs.cache
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\obj\Debug\netcoreapp3.1\SuperHeros.AssemblyInfo.cs
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\obj\Debug\netcoreapp3.1\SuperHeros.csproj.CoreCompileInputs.cache
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\obj\Debug\netcoreapp3.1\SuperHeros.dll
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\obj\Debug\netcoreapp3.1\SuperHeros.pdb
+C:\Users\ericc\Desktop\MyProjects\C#Projects\CSharpProjects\CSharpSolutions\SuperHeros\obj\Debug\netcoreapp3.1\SuperHeros.genruntimeconfig.cache

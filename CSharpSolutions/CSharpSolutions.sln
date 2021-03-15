@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeBook", "GradeBook\Grad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoCos", "PoCos\PoCos.csproj", "{46AE6C60-25B1-4BA2-B26D-ACABB6766ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2284B5AA-EA7E-4A15-B437-339E992CB732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2284B5AA-EA7E-4A15-B437-339E992CB732}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterMind", "MasterMind\MasterMind.csproj", "{136ABFEB-2B7D-47A2-8077-E5556A8A0D7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterMind", "MasterMind\MasterMind.csproj", "{136ABFEB-2B7D-47A2-8077-E5556A8A0D7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Towers Of Hanoi", "Towers Of Hanoi\Towers Of Hanoi.csproj", "{E883C948-3A30-4C6D-AF8D-E330BD186578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Towers Of Hanoi", "Towers Of Hanoi\Towers Of Hanoi.csproj", "{E883C948-3A30-4C6D-AF8D-E330BD186578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeros", "SuperHeros\SuperHeros.csproj", "{906FA774-56CD-441B-BE07-C2C318399F57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E883C948-3A30-4C6D-AF8D-E330BD186578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E883C948-3A30-4C6D-AF8D-E330BD186578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E883C948-3A30-4C6D-AF8D-E330BD186578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906FA774-56CD-441B-BE07-C2C318399F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906FA774-56CD-441B-BE07-C2C318399F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906FA774-56CD-441B-BE07-C2C318399F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906FA774-56CD-441B-BE07-C2C318399F57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
