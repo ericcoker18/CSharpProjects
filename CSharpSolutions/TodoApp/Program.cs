@@ -6,7 +6,8 @@ namespace TodoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AppClass NewApp = new AppClass();
+            NewApp.ProcessInput();
         }
     }
 }
